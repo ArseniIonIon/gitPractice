@@ -4,3 +4,5 @@ Feature: Login Feature
     When user types username on field
     And user types password on field
     Then click on submit button
+
+  Scenario: Login Negative flow
