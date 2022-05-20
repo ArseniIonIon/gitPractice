@@ -5,4 +5,6 @@ Feature: Login Feature
     And user types password on field
     Then click on submit button
 
-  Scenario: Login Negative flow
+
+    Scenario: Negative flow
+
